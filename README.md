@@ -28,7 +28,7 @@
 
 ## 🛠 Tech Stack
 
-<img height="300" width="500" alt="GIF" align="right" src="https://tenor.com/ixIW2f0VQq2.gif">
+<img height="300" width="500" alt="GIF" align="right" src="<div class="tenor-gif-embed" data-postid="7033343591174887014" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/black-clover-witches-forest-arc-asta-vs-ladros-asta-asta-demon-gif-7033343591174887014">Black Clover Witches Forest Arc GIF</a>from <a href="https://tenor.com/search/black+clover-gifs">Black Clover GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
