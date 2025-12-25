@@ -16,7 +16,7 @@
 <p align="center">
   💻 Building ideas into products <br>
   🧠 Exploring data, intelligence & agents <br>
-  I don't let my acedamic background interfere with my passion.
+  I don't let my academic background interfere with my passion.
 </p>
 
 
