@@ -26,7 +26,6 @@
 - 🎬 Big fan of **Stranger Things** & **Big Hero 6**
 - 🤖 If Baymax said *“Hello, I am here to help”* — that’s my vibe 😄
 
----
 
 ## 🛠 Tech Stack
 
@@ -38,18 +37,15 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
 
 ### ⚙️ Backend & Database
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
