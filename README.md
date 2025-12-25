@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN5eWZoNHFidHg5cm5haTY2bHN0Nzd6d2U1ZjcxcGxqeGVsenRrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/52AimBOEZ5mgw/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hi, I'm Bhavya Ponnamanda <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" height="30"/> </h1>
+<h1 align="center">Hi, I'm Bhavya Ponnamanda <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" /> </h1>
 
 <h3 align="center">
   Full-Stack Developer • Data Science Enthusiast • Agentic AI Explorer
@@ -33,7 +33,7 @@
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-<img height="300" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/YZt0u18_1mYAAAAd/black-clover-witches-forest-arc.gif">
+<img height="400" width="500" alt="GIF" align="right" src="https://media1.tenor.com/m/YZt0u18_1mYAAAAd/black-clover-witches-forest-arc.gif">
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
