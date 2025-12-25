@@ -3,6 +3,10 @@
   <img src="https://media.tenor.com/cwqMGjoAugwAAAAi/balalalala-baymax.gif" width="300" />
 </p>
 
+<p align="center">
+  <img src="assets/title.png" width="600" />
+</p>
+
 <h1 align="center">Hi, I'm Bhavya Ponnamanda<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" /> </h1>
 
 <h3 align="center">
