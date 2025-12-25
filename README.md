@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN5eWZoNHFidHg5cm5haTY2bHN0Nzd6d2U1ZjcxcGxqeGVsenRrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/52AimBOEZ5mgw/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hi, I'm Bhavya Ponnamanda 👋</h1>
+<h1 align="center">Hi, I'm Bhavya Ponnamanda <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </h1>
 
 <h3 align="center">
   Full-Stack Developer • Data Science Enthusiast • Agentic AI Explorer
@@ -12,7 +12,7 @@
 <p align="center">
   💻 Building ideas into products <br>
   🧠 Exploring data, intelligence & agents <br>
-  📚 Learning something new every day
+  I don't let my acedamic background interfere with my passion.
 </p>
 
 ---
@@ -20,8 +20,8 @@
 ## ✨ About Me
 
 - 🚀 Full-Stack Developer passionate about **Web, Data Science & Agentic AI**
-- 🧪 Curious learner on a **continuous learning journey**
-- 🧩 Love solving problems that mix **logic + creativity**
+- 🔥 Curious learner on a **continuous learning journey**
+- 🥷 Love solving problems that mix **logic + creativity**
 - 📖 Avid reader of **psychological novels**
 - 🎬 Big fan of **Stranger Things** & **Big Hero 6**
 - 🤖 If Baymax said *“Hello, I am here to help”* — that’s my vibe 😄
