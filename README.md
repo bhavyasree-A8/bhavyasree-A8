@@ -53,7 +53,7 @@
 
 
 ## 🌱 Currently Learning & Exploring
-
+<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 - 🤖 Agentic AI systems & intelligent workflows  
 - 📊 Applying Data Science to real-world problems  
 - 🧠 How intelligent agents reason, plan & act  
@@ -71,10 +71,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/bhavyasree-A8">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/bhavyasree-ponnamanda-aienthusiast/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
