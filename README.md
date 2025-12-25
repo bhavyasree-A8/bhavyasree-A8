@@ -1,20 +1,3 @@
-<!-- 🔴 Stranger Things–style Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhavya%20Ponnamanda&fontSize=40&fontColor=ff004f&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20|%20Data%20Science%20|%20Agentic%20AI&descAlignY=55&descSize=18" />
-</p>
-
-<!-- 📊 GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
 <!-- Big Hero 6 waving gif -->
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN5eWZoNHFidHg5cm5haTY2bHN0Nzd6d2U1ZjcxcGxqeGVsenRrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/52AimBOEZ5mgw/giphy.gif" width="300" />
