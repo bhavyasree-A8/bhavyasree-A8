@@ -3,7 +3,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN5eWZoNHFidHg5cm5haTY2bHN0Nzd6d2U1ZjcxcGxqeGVsenRrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/52AimBOEZ5mgw/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hi, I'm Bhavya Ponnamanda <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/> </h1>
+<h1 align="center">Hi, I'm Bhavya Ponnamanda <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30" height="30"/> </h1>
 
 <h3 align="center">
   Full-Stack Developer • Data Science Enthusiast • Agentic AI Explorer
