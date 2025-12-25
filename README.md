@@ -28,7 +28,7 @@
 
 ## 🛠 Tech Stack
 
-<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
+<img height="300" width="500" alt="GIF" align="right" src="https://tenor.com/ixIW2f0VQq2.gif">
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
