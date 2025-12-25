@@ -15,7 +15,6 @@
   I don't let my acedamic background interfere with my passion.
 </p>
 
----
 
 ## ✨ About Me
 
@@ -60,7 +59,6 @@
 - 🧠 How intelligent agents reason, plan & act  
 - 🌍 Contributing to **Open Source**
 
----
 
 ## 🎯 Goals
 
@@ -69,7 +67,6 @@
 - 🧠 Document my **learning journey**
 - 🚀 Become a developer who builds **impactful, meaningful tech**
 
----
 
 ## 🌐 Connect With Me
 
@@ -82,7 +79,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <i>“Adventure is out there — and so is great code.” ✨</i>
