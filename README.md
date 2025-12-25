@@ -28,6 +28,8 @@
 
 ## 🛠 Tech Stack
 
+<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
+
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,7 +55,6 @@
 
 
 ## 🌱 Currently Learning & Exploring
-<img height="300" width="500" alt="GIF" align="right" src="https://www.icegif.com/wp-content/uploads/2022/11/icegif-1195.gif">
 - 🤖 Agentic AI systems & intelligent workflows  
 - 📊 Applying Data Science to real-world problems  
 - 🧠 How intelligent agents reason, plan & act  
